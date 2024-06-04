@@ -24,7 +24,7 @@
 
   "permissions": ["storage", "nativeMessaging", "tabs"],
 
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "ytvol-normalizer@nahi-da.com"
     }
