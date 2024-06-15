@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "YouTube Volume Normalizer (fork)",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "homepage_url": "https://github.com/nahi-da/youtube-volume-normalizer-fork",
   "description": "Normalize YouTube volume. This extension will increase the volume if it is too soft. YouTube by default will only lower the volume if it is too loud.",
 
