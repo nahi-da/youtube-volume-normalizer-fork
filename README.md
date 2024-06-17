@@ -6,7 +6,7 @@ This extension simulates mouse clicks to obtain the statistics of the video, whi
 ![Video statistics before using this extension](docs/stats_before.png)
 
 With this extension, if the content loudness is below 0 dB, either the audio will be amplified. For example, if it is -8.0 dB, a gain of 8.0 dB will be applied, and the loundness will become $10^\frac{8}{20} \times 100\\% = 251\\%$ of the original volume. See the below screenshot:
-![Video statistics after using this extension](docs/stats_after.png)
+![Video statistics after using this extension](/nahi-da/youtube-volume-normalizer-fork/blob/master/docs/stats_after.png)
 
 ## Amplification
 
